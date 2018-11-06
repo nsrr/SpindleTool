@@ -19,43 +19,15 @@ function varargout = SpindleGUI(varargin)
 %      instance to run (singleton)".
 %
 %
-% GUI provides user easy access to SpectralTrainClass, which computes
-% spectral and coherence from EDF and Annotation (XML) files stored in a
-% folder. See acknowledgements in 'SpectralTrainClass.m'
-%
-% Additional information can be found:
-%   https://github.com/DennisDean/SpindleGUI/blob/master/README.md
-%
 % Related websites:
 %
 %   National Sleep Research Resource:
 %      https://sleepdata.org/
 %
-%   Data Access and Visulation for Sleep Toolbox
-%      https://github.com/DennisDean/DAVS-Toolbox/blob/master/README.md
-%
-%   Authors MATLAB File Exchange Contributions:
-%      http://www.mathworks.com/matlabcentral/fileexchange/?term=authorid:113409
-%
-%   Sleep@Partners Healthcare, Legacy EDF Tools website:
-%      http://sleep.partners.org/edf/
-%
-%
-% Version: 0.1.03
-%
-% ---------------------------------------------
-% Dennis A. Dean, II, Ph.D
-%
-% Program for Sleep and Cardiovascular Medicine
-% Brigam and Women's Hospital
-% Harvard Medical School
-% 221 Longwood Ave
-% Boston, MA  02149
-%
 % File created: April 21, 2014
 % Last updated: June 30, 2014 
 %    
-% Copyright © [2014] The Brigham and Women's Hospital, Inc. THE BRIGHAM AND 
+% Copyright Â© [2014] The Brigham and Women's Hospital, Inc. THE BRIGHAM AND 
 % WOMEN'S HOSPITAL, INC. AND ITS AGENTS RETAIN ALL RIGHTS TO THIS SOFTWARE 
 % AND ARE MAKING THE SOFTWARE AVAILABLE ONLY FOR SCIENTIFIC RESEARCH 
 % PURPOSES. THE SOFTWARE SHALL NOT BE USED FOR ANY OTHER PURPOSES, AND IS
