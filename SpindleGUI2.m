@@ -24,10 +24,8 @@ function varargout = SpindleGUI(varargin)
 %   National Sleep Research Resource:
 %      https://sleepdata.org/
 %
-% File created: April 21, 2014
-% Last updated: June 30, 2014 
 %    
-% Copyright © [2014] The Brigham and Women's Hospital, Inc. THE BRIGHAM AND 
+% Copyright The Brigham and Women's Hospital, Inc. THE BRIGHAM AND 
 % WOMEN'S HOSPITAL, INC. AND ITS AGENTS RETAIN ALL RIGHTS TO THIS SOFTWARE 
 % AND ARE MAKING THE SOFTWARE AVAILABLE ONLY FOR SCIENTIFIC RESEARCH 
 % PURPOSES. THE SOFTWARE SHALL NOT BE USED FOR ANY OTHER PURPOSES, AND IS
@@ -36,6 +34,7 @@ function varargout = SpindleGUI(varargin)
 % FITNESS FOR A PARTICULAR PURPOSE. THE BRIGHAM AND WOMEN'S HOSPITAL, INC. 
 % AND ITS AGENTS SHALL NOT BE LIABLE FOR ANY CLAIMS, LIABILITIES, OR LOSSES 
 % RELATING TO OR ARISING FROM ANY USE OF THIS SOFTWARE.
+% we share this tool with the hope it will be useful, but without any warranty
 %
 % See also: GUIDE, GUIDATA, GUIHANDLES
 
